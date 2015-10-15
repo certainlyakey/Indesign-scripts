@@ -1,3 +1,5 @@
+//Try to make it work while text editing mode
+
 var myDocument = app.activeDocument;
 var baseline = myDocument.gridPreferences.baselineDivision;
 

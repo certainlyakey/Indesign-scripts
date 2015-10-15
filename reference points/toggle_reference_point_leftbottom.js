@@ -1,0 +1,1 @@
+app.activeWindow.transformReferencePoint = AnchorPoint.BOTTOM_LEFT_ANCHOR;

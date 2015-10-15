@@ -1,0 +1,1 @@
+app.activeDocument.viewPreferences.cursorKeyIncrement = 0.5;
