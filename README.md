@@ -6,7 +6,7 @@ These JSX scripts for Indesign are mostly written by me with the help of guys fr
 - starting to edit text in the currently selected frame from keyboard;
 - invert text case;
 - moving objects to another layer;
-- opening selection in new window — I use this as a trick for editing in one window, viewing the result without selection frames in another as it's not possible to hide frame edges for the current selection;
+- opening selection in new window — I use this as a trick for editing in one (often little) window, viewing the result without selection frames in another as it's not possible to hide frame edges for the current selection like in Sketch;
 - selecting swatches from keyboard that doesn't mess with Swatches palette state;
 - selecting current word (you can use [this script](http://jsid.blogspot.com.ee/2007/08/selecting-paragraphs.html) for selecting paragraphs);
 - toggle different vertical justification modes from keyboard 
