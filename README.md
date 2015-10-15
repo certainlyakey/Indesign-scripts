@@ -12,4 +12,6 @@ These JSX scripts for Indesign are mostly written by me with the help of guys fr
 - toggle different vertical justification modes from keyboard 
 - and others.
 
+You can make use of them by putting the ones you like into Indesign's Scripts folder and them assigning to them some keyboard shortcut via `Edit->Keyboard Shortcuts`.
+
 I hope you find it useful and offer your ideas and suggestions.
