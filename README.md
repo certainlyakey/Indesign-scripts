@@ -3,19 +3,18 @@ These JSX scripts for Indesign are mostly written by me with the help of guys fr
 These scripts include:
 
 - resizing frames by document and baseline grid divisions;
-- quickly setting keyboard increments;
+- quickly setting keyboard increments (I use <kbd>Ctrl+Cmd+Shift+numbers</kbd> for that);
 - flexibly controlling opacity, stroke weight and tint;
-- starting to edit text in the currently selected frame from keyboard;
-- invert text case or setting Title case on a word the cursor is currently inside of;
-- selecting current word;
-- moving objects to another layer;
+- starting to edit text in the currently selected frame from keyboard (<kbd>Enter</kbd>);
+- invert text case or setting Title case on a word the cursor is currently inside of (<kbd>Cmd+U</kbd>, <kbd>Ctrl+Cmd+Shift+U</kbd>);
+- selecting current word (<kbd>Cmd+D</kbd>);
+- moving objects to another layer (<kbd>Ctrl+Alt+Cmd+Home</kbd>);
 - opening selection in new window — I use this as a trick for editing in one (often little) window, viewing the result without selection frames in another as it's not possible to hide frame edges for the current selection like in Sketch;
 - selecting swatches from keyboard that doesn't mess with Swatches palette state;
-- selecting current word (you can use [this script](http://jsid.blogspot.com.ee/2007/08/selecting-paragraphs.html) for selecting paragraphs);
-- toggle different vertical justification modes from keyboard 
+- toggle different vertical justification modes from keyboard (<kbd>Ctrl+Cmd+B</kbd>)
 - and others.
 
-You can make use of them by putting the ones you like into Indesign's Scripts folder and them assigning to them some keyboard shortcut via `Edit->Keyboard Shortcuts`.
+You can make use of them by putting the ones you like into Indesign's Scripts folder and them assigning to them some keyboard shortcut via `Edit->Keyboard Shortcuts`. Remember to do that, there's no way to automatically set a shortcut in Indesign upon downloading a script!
 
 I hope you find it useful and offer your ideas and suggestions.
 
