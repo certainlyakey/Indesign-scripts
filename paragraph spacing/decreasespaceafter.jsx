@@ -1,0 +1,1 @@
+var myPara = app.selection[0].paragraphs[0];var spaceAfter = parseInt(myPara.spaceAfter);if (myPara.spaceAfter !== 0) {	myPara.spaceAfter = spaceAfter-1;}

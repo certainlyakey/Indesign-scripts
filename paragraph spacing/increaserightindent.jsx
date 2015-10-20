@@ -1,0 +1,1 @@
+var myPara = app.selection[0].paragraphs[0];var rightIndent = parseInt(myPara.rightIndent);myPara.rightIndent = rightIndent+1;
