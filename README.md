@@ -26,7 +26,7 @@ Some previews are below.
 
 ![Changing keyboard increments from keyboard](screenshots/change_key_increment.gif)
 
-**Changing frame parameters such as opacity:**
+**Changing frame parameters such as opacity, tint and stroke width:**
 
 ![Changing frame parameters such as opacity, tint and stroke width](screenshots/frameparameters.gif)
 
@@ -42,7 +42,7 @@ Some previews are below.
 
 ![Choosing swatches for current selection](screenshots/selectSwatch.gif)
 
-**Starting frame editing mode from keyboard:**
+**Starting frame editing mode from keyboard, selecting current word and controlling paragraph spacing:**
 
 ![Starting frame editing mode from keyboard, selecting current word and controlling paragraph spacing](screenshots/textshortcuts.gif)
 
