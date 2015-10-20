@@ -19,3 +19,25 @@ You can make use of them by putting the ones you like into Indesign's Scripts fo
 Sometimes they don't have proper error catching and everything, so be prepared.
 
 I hope you find it useful and offer your ideas and suggestions.
+
+Some previews are below:
+
+![Changing keyboard increments from keyboard](screenshots/change_key_increment.gif)
+
+![Changing frame parameters such as opacity, tint and stroke width](screenshots/frameparameters.gif)
+
+![Resizing frame by document or baseline grid divisions](screenshots/resizebygrid.gif)
+
+![Simply resizing frames from center](screenshots/resizefromcenter.gif)
+
+![Choosing swatches for current selection](screenshots/selectSwatch.gif)
+
+![Starting frame editing mode from keyboard, selecting current word and controlling paragraph spacing](screenshots/textshortcuts.gif)
+
+![Toggling between display performance modes](screenshots/toggle_display_mode.gif)
+
+![Toggling between vertical justification modes](screenshots/toggle_vertical_justification.gif)
+
+
+
+
