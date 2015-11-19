@@ -1,1 +1,1 @@
-var myPara = app.selection[0].paragraphs[0];var rightIndent = parseInt(myPara.rightIndent);if (myPara.rightIndent !== 0) {	myPara.rightIndent = rightIndent-1;}
+var myParas = app.selection[0].paragraphs;for (var i = myParas.length - 1; i >= 0; i--) {	var myPara = myParas[i];	var rightIndent = parseInt(myPara.rightIndent);	if (myPara.rightIndent !== 0) {		myPara.rightIndent = rightIndent-1;	}}

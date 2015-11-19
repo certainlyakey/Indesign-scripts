@@ -1,1 +1,1 @@
-var myPara = app.selection[0].paragraphs[0];var spaceAfter = parseInt(myPara.spaceAfter);if (myPara.spaceAfter !== 0) {	myPara.spaceAfter = spaceAfter-1;}
+var myParas = app.selection[0].paragraphs;for (var i = myParas.length - 1; i >= 0; i--) {	var myPara = myParas[i];	var spaceAfter = parseInt(myPara.spaceAfter);	if (myPara.spaceAfter !== 0) {		myPara.spaceAfter = spaceAfter-1;	}}
